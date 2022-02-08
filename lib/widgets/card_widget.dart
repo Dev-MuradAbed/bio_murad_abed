@@ -26,8 +26,8 @@ class card extends StatelessWidget {
       color: Colors.transparent,
       margin: EdgeInsets.only(
           bottom: bottonmargen, top: topmargen, left: 5, right: 5),
-      shape: const RoundedRectangleBorder(
-          side: BorderSide(color: Colors.lightBlueAccent, width: 2),
+      shape:  RoundedRectangleBorder(
+          side: BorderSide(color: Colors.lightBlueAccent.shade100),
           borderRadius: BorderRadius.all(Radius.circular(30))),
       child: ListTile(
           leading: Icon(leadingicon,color: Colors.black,),
