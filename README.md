@@ -1,3 +1,4 @@
 # bio_murad_abed
-![](screen/BioMuradAbed.jpg)
+❮img src="screen/BioMuradAbed.jpg" width="100" ❯
+<!-- ![](screen/BioMuradAbed.jpg) -->
 
